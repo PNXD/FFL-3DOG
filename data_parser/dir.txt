@@ -1,0 +1,11 @@
+left
+right
+direction
+middle
+center
+corner
+side
+end
+front
+top
+head
